@@ -1,0 +1,219 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+h2{
+  font-size: 2rem;
+  color: #505abb;
+  font-weight: normal;
+  margin: 0 auto;
+  padding: 50px;
+}
+h3{
+  text-align: center;
+  font-size: 1.5rem;
+  color: #be753a;
+  letter-spacing: 0.1em;
+}
+p{
+  font-size: 1.1rem;
+  line-height: 2;
+  color: #273689;
+}
+hr{
+margin: 0 auto;
+border-style:none;
+width:4%;
+border-top: 10px dotted white;
+}
+.up-hr{
+margin-top: 50px;
+}
+.down-hr{
+  padding-bottom: 100px;
+}
+span{
+  text-decoration: underline;
+}
+.socail{
+  width: 40px;
+}
+.introduction{
+  margin: 0 auto;
+  padding-bottom: 100px;
+  text-align: left;
+  width:500px;
+  line-height: 2;
+  position: relative;
+}
+.profile-container{
+  margin: 0 auto;
+  background-color: #fbcda7;
+}
+.profile-content{
+  margin: 0 auto;
+  position: relative;
+  background-color: #fbcda7;
+}
+.my-photo{
+  margin: 100px auto 30px;
+}
+.top-container{
+  background-color: #d3dffa;
+  margin: 0 auto;
+  padding-top: 100px;
+  position: relative;
+  font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 500px;
+}
+.name-title{
+  margin: 0;
+  position: relative;
+}
+.name{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 5rem;
+  line-height: 0.5;
+  color: #505abb;
+  margin: 50px auto 10px auto;
+}
+.title{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #fa9746;
+  margin: 0 auto 10px auto;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 300px;
+  left: 500px;
+
+}
+
+.programming{
+position: relative;
+margin-top: 80px;
+}
+
+.middle-container{
+margin: 0 auto;
+padding-top: 50px;
+position: relative;
+background-color: #d0ddf9;
+}
+.bottom-container{
+  margin: 0 auto;
+  padding-top: 50px;
+  position: relative;
+  background-color: #505abb;
+
+}
+.contact-me{
+  padding-bottom: 50px;
+  background-color: #ffeaa7;
+}
+.skills{
+
+  width: 50%;
+  margin: 50px auto;
+}
+.skill-row{
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+  margin: 50px auto;
+}
+.python{
+  float: left;
+  width: 25%;
+  margin-right: 15px;
+  margin-bottom: 80px;
+}
+.skill-details{
+  text-align: left;
+}
+.it-support{
+  float: right;
+  margin-left: 15px;
+  width: 25%;
+}
+.html{
+  float: left;
+  width: 25%;
+  margin-right: 15px;
+}
+.css{
+  float: right;
+  margin-left: 15px;
+  width: 25%;
+}
+.photoshop{
+  float: left;
+  width: 25%;
+  margin-right: 15px;
+}
+.contact-me-btn{
+  margin: 0 auto;
+}
+.contact-msg{
+  width: 20%;
+  margin: 30px auto 60px;
+}
+.main-image{
+  padding: 50px;
+}
+.btn {
+  background: #edbb92;
+  background-image: -webkit-linear-gradient(top, #edbb92, #fa9746);
+  background-image: -moz-linear-gradient(top, #edbb92, #fa9746);
+  background-image: -ms-linear-gradient(top, #edbb92, #fa9746);
+  background-image: -o-linear-gradient(top, #edbb92, #fa9746);
+  background-image: linear-gradient(to bottom, #edbb92, #fa9746);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f3ccac;
+  background-image: -webkit-linear-gradient(top, #f3ccac, #fdb67c);
+  background-image: -moz-linear-gradient(top, #f3ccac, #fdb67c);
+  background-image: -ms-linear-gradient(top, #f3ccac, #fdb67c);
+  background-image: -o-linear-gradient(top, #f3ccac, #fdb67c);
+  background-image: linear-gradient(to bottom, #f3ccac, #fdb67c);
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
+a:link{
+  color: white;
+}
+a:visited{
+  color: #32C1CD;
+}
+a:hover{
+  color: #32C1CD;
+}
+.copyright{
+  color: white;
+  margin: 0 auto;
+  padding: 50px;
+  font-size: 0.75rem;
+}
+.footer-link{
+  font-size: 1rem;
+  padding: 5px;
+}
